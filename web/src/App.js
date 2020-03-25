@@ -96,7 +96,6 @@ function App() {
           >
             <Menu.Item  onClick={nddpage}>Newton Divided Derivation</Menu.Item>
             <Menu.Item  onClick={Lagrangepage}>Lagrange</Menu.Item>
-            <Menu.Item >Spline</Menu.Item>
           </SubMenu>
           <SubMenu
             
@@ -108,7 +107,6 @@ function App() {
             }
           >
             <Menu.Item  onClick={LinearRegressionpage}>Linear Regression</Menu.Item>
-            <Menu.Item >Multi Regression</Menu.Item>
           </SubMenu>
           <SubMenu
             
