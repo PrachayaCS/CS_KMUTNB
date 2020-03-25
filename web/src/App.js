@@ -106,7 +106,7 @@ function App() {
               </span>
             }
           >
-            <Menu.Item  onClick={LinearRegressionpage}>Linear Regression</Menu.Item>
+            <Menu.Item  onClick={LinearRegressionpage}>Polynomial Regression</Menu.Item>
           </SubMenu>
           <SubMenu
             
